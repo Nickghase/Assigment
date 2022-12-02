@@ -16,7 +16,7 @@ Ensemble techniques: random forest regressor and XGBoost regressor.
 Understanding features which are responsible for predicting house prices and 
 predicting house price using different regressor models in which XGB regressor gives high score.
 
-2) Product_matching:
+ Task 2 Product_matching:
 
 1) Creating word embedding using pretrained model sentence transformer 
 2) Using cosine similarity to find distance between embedded vector of one data with another data
