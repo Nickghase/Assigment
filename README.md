@@ -21,7 +21,7 @@ predicting house price using different regressor models in which XGB regressor g
 1) Creating word embedding using pretrained model sentence transformer 
 2) Using cosine similarity to find distance between embedded vector of one data with another data
 To see the highest similarity between two products.
-3) Top 1 similarity product is chose.
+3) Top 1 similarity product has chosen.
 
 library used : pytorch and transformer
 output file is named as result which has matched products from both dataset.
